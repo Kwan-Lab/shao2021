@@ -1,0 +1,1 @@
+Code and data associated with the paper, Shao LX, Liao C, Gregg I, Davoudian PA, Savalia NK, Delagarza K, Kwan AC, Psilocybin induces rapid and persistent growth of dendritic spines in frontal cortex in vivo. Neuron (2021).
